@@ -32,20 +32,43 @@ Current expense tracking tools are often tedious, inaccurate, and costly. They r
 | Type Safety | TypeScript | Makes code easier to debug |
 | State | Zustand | Easy to get data from global state |
 | Data | Dexie.js | Simple + offline storage for structured data |
+| Visualization | Recharts | Clean and simple chart components for React |
 | Deployment | Vercel | Free and works with React apps |
 
 ## Project Timeline
 [TODO: Plan what you'll build each week]
-- **Week 1**: 
-- **Week 2**: 
-- **Week 3**: 
-- **Week 4**: 
-- **Week 5**: 
-- **Week 6**: 
-- **Week 7**: 
-- **Week 8**: 
-- **Week 9**: 
-- **Week 10**: 
+
+**Week 1**: 
+- Project Setup
+
+**Week 2**: 
+- Design React Components from HTML mockup
+- Styling Components
+
+**Week 3**: 
+
+
+**Week 4**: 
+
+
+**Week 5**: 
+
+
+**Week 6**: 
+
+
+**Week 7**: 
+
+
+**Week 8**: 
+
+
+**Week 9**: 
+
+
+**Week 10**: 
+
+
 
 ## Getting Started
 [TODO: Write installation and setup instructions]
@@ -72,7 +95,7 @@ See [docs/decisions](./docs/decisions) for detailed technical decisions.
 - [My Linkedin](https://www.linkedin.com/in/michaeltwo/)
 
 ## License
-This Project is licensed under the MIT License
+This Project is licensed under the [MIT LICENSE.](./LICENSE)
 
 ## Acknowledgments
 [TODO: Credit any resources, tutorials, or people who helped]
