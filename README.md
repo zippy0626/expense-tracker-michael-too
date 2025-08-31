@@ -30,8 +30,9 @@ Current expense tracking tools are often tedious, inaccurate, and costly. They r
 | Frontend | React | Reusable and modular components |
 | Styling | Tailwind CSS | No manual CSS writing |
 | Type Safety | TypeScript | Makes code easier to debug |
-| State | Zustand | Easy to get data from global state |
-| Data | Dexie.js | Simple + offline storage for structured data |
+| State Management | Zustand | Easy to get data from global state |
+| Data Storage | Dexie.js | Simple + offline storage for structured data |
+| Data Parsing | Papa Parse | Easy Parsing for .csv files |
 | Visualization | Recharts | Clean and simple chart components for React |
 | Deployment | Vercel | Free and works with React apps |
 
