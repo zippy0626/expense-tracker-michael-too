@@ -6,7 +6,7 @@ export default function SideNavbar() {
     <>
       <section
         id="side-nav-bar"
-        className="z-1 fixed left-0 top-0 h-full w-[200px] overflow-x-hidden bg-gray-200 p-4"
+        className="fixed left-0 top-0 h-full w-[200px] overflow-x-hidden bg-gray-200 p-4"
       >
         <h1 className="p-1 pb-4 font-semibold">Expense Tracker</h1>
         <ul className="flex flex-col gap-2">
