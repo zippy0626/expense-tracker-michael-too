@@ -9,16 +9,18 @@ export default function SideNavbar() {
       >
         <h1 className="pb-4 text-xl font-semibold">Expense Tracker</h1>
         <ul className="flex flex-col gap-2">
-          <Link to="/">
-            <li className="cursor-pointer p-1 transition-[background-color] duration-150 select-none hover:bg-gray-100 active:bg-gray-300">
-              Dashboard
-            </li>
+          <Link
+            to="/dashboard"
+            className="cursor-pointer p-1 transition-[background-color] duration-150 select-none hover:bg-gray-100 active:bg-gray-300"
+          >
+            Dashboard
           </Link>
 
-          <Link to="/Upload">
-            <li className="cursor-pointer p-1 transition-[background-color] duration-150 select-none hover:bg-gray-100 active:bg-gray-300">
-              Upload
-            </li>
+          <Link
+            to="/upload"
+            className="cursor-pointer p-1 transition-[background-color] duration-150 select-none hover:bg-gray-100 active:bg-gray-300"
+          >
+            Upload
           </Link>
         </ul>
       </section>
